@@ -1,4 +1,4 @@
-<img  align="center" alt="Coding" width="800" src="https://github.com/anshu292/anshu292/blob/main/MishManners20animated.gif">
+<img  align="center" alt="Coding" width="800" src="https://github.com/anshu292/anshu292/blob/main/anshufinal.gif">
 <h1 align="center">Hello <img  alt="there" width="100" src="https://github.com/anshu292/anshu292/blob/main/ciaoo.gif">, I'm Anshu Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/anshu292/anshu292/blob/main/coding.gif">
