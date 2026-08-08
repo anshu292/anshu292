@@ -6,7 +6,7 @@
 
 
 - 🎓 I'm a Tech and Coding enthusiast and a Software Developer based in New Delhi, India.
-I am currently pursuing my **Masters of Technology in Computer Science and Engineering** from Netaji Subhas University of Technology, New Delhi.
+I am currently a Software Engineer at **NatWest Group**.
 
 
 
@@ -15,9 +15,9 @@ I am currently pursuing my **Masters of Technology in Computer Science and Engin
 
 - 📫 How to reach me **anshugupta29a@gmail.com**
 
-- 🌱 I’m currently learning **NodeJs,Express and related technologies.**
+- 🌱 I’m currently learning **Databases and backend technologies.**
 
-- 💬 Ask me about **ReactJS,JavaScript,TailwindCss,HTML**
+- 💬 Ask me about **ReactJS, AngularJS, SQL, PL/SQL, Oracle Cloud Technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
